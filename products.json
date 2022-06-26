@@ -183,5 +183,7 @@
   { "id": 22, "title": "my product", "price": 255, "category": "man" },
   { "id": 23, "title": "my product", "price": 255, "category": "man" },
   { "id": 24, "title": "iphone", "price": "559" },
-  { "id": 25, "title": "iphone", "price": "559" }
+  { "id": 26, "title": "macina", "price": "toyota 333" },
+  { "id": 27, "title": "macina", "price": "mazda 232" },
+  { "id": 28, "title": "macina", "price": "mazda 232" }
 ]
